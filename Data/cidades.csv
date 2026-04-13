@@ -1,0 +1,18 @@
+city,lat,lon,region
+Sao Paulo,-23.55,-46.63,Sudeste
+Rio de Janeiro,-22.90,-43.20,Sudeste
+Belo Horizonte,-19.92,-43.94,Sudeste
+Vitoria,-20.32,-40.34,Sudeste
+Salvador,-12.97,-38.50,Nordeste
+Recife,-8.05,-34.90,Nordeste
+Fortaleza,-3.72,-38.54,Nordeste
+Natal,-5.79,-35.21,Nordeste
+Curitiba,-25.43,-49.27,Sul
+Porto Alegre,-30.03,-51.23,Sul
+Florianopolis,-27.59,-48.55,Sul
+Brasilia,-15.78,-47.93,Centro-Oeste
+Goiania,-16.68,-49.25,Centro-Oeste
+Cuiaba,-15.60,-56.10,Centro-Oeste
+Manaus,-3.10,-60.02,Norte
+Belem,-1.45,-48.50,Norte
+Porto Velho,-8.76,-63.90,Norte
