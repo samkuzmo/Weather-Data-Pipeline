@@ -2,6 +2,8 @@
 
 End-to-end data pipeline for ingesting, transforming, and analyzing weather data using a **Medallion Architecture (Bronze → Silver → Gold)** on Databricks.
 
+🇧🇷 [Leia em Português](README.pt-BR.md)
+
 ---
 
 ## 📌 Overview
