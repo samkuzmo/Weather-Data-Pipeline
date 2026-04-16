@@ -101,7 +101,7 @@ The project includes a dashboard built in Databricks for data visualization.
 
 ## 🎥 Dashboard Demo
 
-![Demo](./images/summary.png)
+![Demo](./images/demo.gif)
 
 ---
 
